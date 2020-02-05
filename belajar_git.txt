@@ -1,0 +1,4 @@
+git reset:
+-- soft kembalikan ke file stage
+-- mixed kembalikan ke gabungan
+-- hard kembalikan ke kondisi commit awal
